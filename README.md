@@ -1,6 +1,5 @@
 # Predictive-Modeling-of-Blood-Sugar-Dynamics
 
-**Predictive Modeling of Blood Sugar Dynamics**
 
 **Overview**
 This project focuses on improving diabetes management by developing a machine learning system that predicts blood sugar levels using two forecasting models: ARIMA and PROPHET. The system leverages Continuous Glucose Monitoring (CGM) data, carbohydrate intake (CHO), and insulin data to enhance the accuracy of blood sugar predictions and classifications.
